@@ -46,3 +46,7 @@ Sidcup Family Golf is a multipurpose golf facility located in Sidcup, South East
 - GSAP (GreenSock Animation Platform) for providing animation capabilities.
 
 Feel free to explore and enjoy the virtual experience of Sidcup Family Golf!
+
+![Screenshot (37)](https://github.com/anafariya/animated-golf-page/assets/70438803/030b6bdd-0a41-42d3-ac1c-c3d531490080)
+![Screenshot (35)](https://github.com/anafariya/animated-golf-page/assets/70438803/f94c5d11-0adb-4988-8b5f-e718bb9ae94a)
+![Screenshot (36)](https://github.com/anafariya/animated-golf-page/assets/70438803/0b1ffb36-a569-4056-adde-c2f39ecae3e4)
