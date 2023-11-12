@@ -27,7 +27,7 @@ Page Sections: The website is divided into several sections, each providing info
 Card Animation: Interactive cards with images and overlay descriptions that pop up on hover.
 Scroll Trigger Animations: Utilizes GSAP's ScrollTrigger for smooth animations triggered by scrolling.
 How to Use <a name="how-to-use"></a>
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone https://github.com/anafariya/animated-golf-page
 Open the index.html file in your preferred web browser.
 Acknowledgements <a name="acknowledgements"></a>
 The original design and content belong to Sidcup Family Golf.
