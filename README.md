@@ -1,3 +1,7 @@
+## Demo
+
+https://anafariya.github.io/animated-golf-page/
+
 ## Sidcup Family Golf - Ana Clone
 
 Welcome to the Sidcup Family Golf website clone! This project aims to replicate the design and functionality of the [original website](https://sidcupfamilygolf.com/) using HTML, CSS, and JavaScript.
